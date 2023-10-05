@@ -51,7 +51,7 @@ TP Tool supports the following options:
 
 ## Support
 
-If you encounter any issues or have questions about TP Tool, please feel free to reach out to the developer at giongfnef26@intigriti.com
+If you encounter any issues or have questions about TP Tool, please feel free to reach out to the developer at giongfnef26@intigriti.me
 
 
 
